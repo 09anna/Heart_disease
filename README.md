@@ -4,10 +4,6 @@
 
 This project aims to to predict whether a patient has heart disease or not.
 
-This project follows the following workflow:
-- Data Collection and Exploration
-- Data Cleaning and Transformation
-- Exploratory Data Analysis
 
 
                                                          ---------- *** ----------
@@ -37,3 +33,23 @@ The dataset contains patient medical information such as:
 - Target: Diagnosis of heart disease
     - 0 -> No heart disease
     - 1 -> Heart disease
+
+---
+
+### Steps
+
+This project follows the following workflow:
+- Data Collection and Exploration
+- Data Cleaning and Transformation
+- Exploratory Data Analysis
+- Feature Selection
+- Model Development
+- Hypermeter tuning
+- Model Deployment
+
+---
+# How to Run
+
+### 1. Install dependencies
+### 2. Run the streamlit app
+### 3. Open in browser
