@@ -1,6 +1,6 @@
-#Heart Disease Prediction
+# 🫀Heart Disease Prediction
 
-##Project Overview
+## Project Overview
 
 This project aims to to predict whether a patient has heart disease or not.
 
@@ -8,7 +8,7 @@ This project aims to to predict whether a patient has heart disease or not.
 
                                                          ---------- *** ----------
 
-#Dataset
+## Dataset
 
 The Dataset used in this project is the Cleaveland's UCI Heart Disease Dataset.
 
@@ -36,7 +36,7 @@ The dataset contains patient medical information such as:
 
 ---
 
-### Steps
+## Project Workflow
 
 This project follows the following workflow:
 - Data Collection and Exploration
@@ -48,8 +48,31 @@ This project follows the following workflow:
 - Model Deployment
 
 ---
-# How to Run
 
-### 1. Install dependencies
-### 2. Run the streamlit app
-### 3. Open in browser
+## Technologies Used
+- Jupyter Notebook
+- Python
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Scikit-learn
+- Streamlit
+- Joblib
+
+---
+
+## How to Run
+
+1. Install dependencies
+2. Run the streamlit app
+3. Open in browser
+4. Use the App
+- Fill in the patient details using the sliders and dropdowns
+- Click the Prredict button
+- View the result - High Risk or Low Risk with probability
+
+## Key Insights
+- Max Heart Rate is the strongest predictor
+![alt text](image-1.png)
+- 
