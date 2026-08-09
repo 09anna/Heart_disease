@@ -74,5 +74,8 @@ This project follows the following workflow:
 
 ## Key Insights
 - Max Heart Rate is the strongest predictor
-![alt text](image-1.png)
-- 
+- Asymptomatic chest pain has the highest disease rate.
+- Males have higher disease risk than females.
+- Cholesterol is suprisingly weak predictor.
+
+---
